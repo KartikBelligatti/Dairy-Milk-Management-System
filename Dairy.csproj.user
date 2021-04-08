@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Add Billing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add Daily Milk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add new milk rate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add new seller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Billing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Daily Milk Rate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Daily Milk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dairy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forgot Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Milk Rate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="My Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reset Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Seller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sign Up.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff Forgot Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="staff Reset Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Bill Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Daily Milk Rate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User My Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
